@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/libs/httpasyncclient-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/libs/httpmime-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/libs/mysql-connector-java-8.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/libs/json-20160212.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/libs/httpcore-nio-4.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/libs/JWebServer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/libs/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/libs/json-simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/libs/httpcore-4.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/libs/unirest-java-1.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/libs/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/libs/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
