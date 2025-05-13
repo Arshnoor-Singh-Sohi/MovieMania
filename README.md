@@ -1,7 +1,7 @@
 # MovieMania: A Java Swing Movie and TV Show Information System
 
 <div align="center">
-  <img src="https://github.com/Arshnoor-Singh-Sohi/MovieMania/blob/main/src/MovieManiaLogo.jpg" alt="MovieMania Logo" width="300px">
+  <img src="/src/MovieManiaLogo.jpg" alt="MovieMania Logo" width="300px">
   <h3>Your personal entertainment discovery and management app</h3>
 </div>
 
